@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/vikeshaiofficial/_next/static/chunks/ff1a16fafef87110.js","/vikeshaiofficial/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"OzeYthvyEXNTHjzjg311y","rsc":["$","$1","c",{"children":[["$","div",null,{"children":["$","h1",null,{"className":"text-2xl text-blue-600 text-center","children":"Welcome to blog "}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
